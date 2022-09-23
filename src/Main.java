@@ -10,7 +10,6 @@ public class Main {
             System.out.println("2) Вычитание (-)");
             System.out.println("3) Умножение (*)");
             System.out.println("4) Деление (/)");
-            System.out.println("5) Завершить Работу");
             Scanner sc = new Scanner(System.in);
             int sc1 = sc.nextInt();
             System.out.println("Введите 1 Число :");

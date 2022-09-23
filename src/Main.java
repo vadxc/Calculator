@@ -34,8 +34,7 @@ public class Main {
             }
             System.out.println("Ответ : " + res);
         } catch (Exception e) {
-            System.err.println("Сбой! Не вводи букву!");
+            System.err.println("Сбой! Не вводите буквы!");
         }
-
     }
 }
